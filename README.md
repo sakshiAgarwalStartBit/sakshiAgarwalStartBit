@@ -20,6 +20,9 @@ My core focus is on creating seamless user experiences that improve performance,
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://private-user-images.githubusercontent.com/53561169/473436462-e322c296-078a-4633-97e0-c056452607b8.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQwNDk1NTQsIm5iZiI6MTc1NDA0OTI1NCwicGF0aCI6Ii81MzU2MTE2OS80NzM0MzY0NjItZTMyMmMyOTYtMDc4YS00NjMzLTk3ZTAtYzA1NjQ1MjYwN2I4LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODAxVDExNTQxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTliMTg2Y2M4NDQyODEzYjY5MDg3OTY1MmRlZDlhODY2NDg0ZTEwOTFiZTBjYmI5MWIyYmY4OTc2MDk4YThmMzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.P_Z-B44KLfCr8urXhOi9HIc5o9j4GTUEIY2os9INvAM">
 <img height="30"  alt="PHP" src="https://private-user-images.githubusercontent.com/53561169/473436462-e322c296-078a-4633-97e0-c056452607b8.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQwNDk1NTQsIm5iZiI6MTc1NDA0OTI1NCwicGF0aCI6Ii81MzU2MTE2OS80NzM0MzY0NjItZTMyMmMyOTYtMDc4YS00NjMzLTk3ZTAtYzA1NjQ1MjYwN2I4LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODAxVDExNTQxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTliMTg2Y2M4NDQyODEzYjY5MDg3OTY1MmRlZDlhODY2NDg0ZTEwOTFiZTBjYmI5MWIyYmY4OTc2MDk4YThmMzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.P_Z-B44KLfCr8urXhOi9HIc5o9j4GTUEIY2os9INvAM">
       </a>
+      <a href="https://github.com/user-attachments/assets/592d3b87-de8a-434a-b589-0af321ef8258">
+        <img height="30" src="https://github.com/user-attachments/assets/592d3b87-de8a-434a-b589-0af321ef8258" alt="Webpixel">
+      </a>
 </p>
 <hr>
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🛠 Backend</h2><a id="user-content--backend" class="anchor" aria-label="Permalink: 🛠 Backend" href="#-backend"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
@@ -36,6 +39,10 @@ My core focus is on creating seamless user experiences that improve performance,
   <a href="https://github.com/user-attachments/assets/8de76693-3374-461d-ba5f-6fcd48ac31eb">
     <img height="30" alt="Rest API" src="https://github.com/user-attachments/assets/8de76693-3374-461d-ba5f-6fcd48ac31eb">
   </a>
+  <a href="https://github.com/user-attachments/assets/acdab8df-3076-4e5e-9853-45617591f08a">
+    <img height="30" alt="Rest API" src="https://github.com/user-attachments/assets/acdab8df-3076-4e5e-9853-45617591f08a">
+  </a>
+  
 </p>
 <hr>
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">📰 CMS</h2><a id="user-content--cms" class="anchor" aria-label="Permalink: 📰 CMS" href="#-cms"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
@@ -47,4 +54,9 @@ My core focus is on creating seamless user experiences that improve performance,
 <p><a href="https://apps.shopify.com/click-and-collect">Zapiet</a></p>
 <p><a href="https://apps.shopify.com/onfleet">Onfleet</a></p>
 <p><a href="https://www.twilio.com/en-us">Twilio</a></p>
-
+<hr>
+<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🔧 Customized Shopify Theme</h2><a id="user-content--cms" class="anchor" aria-label="Permalink: 📰 CMS" href="#-cms"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p>Dawn</p>
+<p>Prestige</p>
+<p>Impulse</p>
+<p>Focal</p>
